@@ -161,6 +161,7 @@ header p {
 h2 {
     border-bottom: 2px solid #227124;
     font-family: "craft";
+    margin-top: 100px;
 }
 
 p {
@@ -397,11 +398,11 @@ form {
     clear: both;
 }
 
-#name,#login_name{
+#name {
     width: 200px;
 }
 
-#email,#login_email {
+#email {
     width: 300px;
 }
 
